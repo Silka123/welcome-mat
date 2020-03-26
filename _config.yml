@@ -1,6 +1,6 @@
 permalink: /:categories/:title/
-baseurl: https://welcome.openstreetmap.org
-title: Welcome Mat | OpenStreetMap
+baseurl: https://welcome.openstreetmap.ru
+title: Добро пожаловать | OpenStreetMap
 markdown: kramdown
 kramdown:
   input: GFM

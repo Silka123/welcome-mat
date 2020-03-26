@@ -1,9 +1,9 @@
 ---
-title: Working with OpenStreetMap Data
+title: Работа с данными OpenStreetMap
 layout: category
 order: 13
 color: blue
-description: How to use, research and edit OSM
+description: Как использовать, исследовать и редактировать OSM
 image: whatisOSM_Civic_Use_DanielXOneilr.jpg
-image-alt: a person working on a laptop computer, editing OpenStreetMap data
+image-alt: человек правит данные OpenStreetMap на ноутбуке
 ---

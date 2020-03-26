@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Welcome Mat | OpenStreetMap
+title: Добро пожаловать | OpenStreetMap
 ---

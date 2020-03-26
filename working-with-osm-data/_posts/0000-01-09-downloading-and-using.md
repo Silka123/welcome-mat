@@ -1,9 +1,7 @@
 ---
-title: Downloading and using OSM data
+title: Загрузка и использование данных OSM
 ---
 
-There are many ways to use OpenStreetMap data. It is possible to download raw data for a certain area, entire countries or regions, or certain features such as roads or buildings. There are also many ways to use use existing sets or of OpenStreetMap data, such as map images, routing software and more.
+Существует множество способов использования данных OpenStreetMap. При этом, можно загрузить как абсолютно все (необработанные) имеющиеся данные определенной локации, страны или континента, так и только какие-то определенные, например, дороги или здания. Помимо этого, есть много вариантов использования существующей инфраструктуры OSM: тайлов, сервиса построения маршрутов и многое другое.
 
-If you are interested in downloading raw OpenStreetMap data, [this page](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} has more information. 
-
-[Here](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} is more information on uses of OpenStreetMap such as in maps and for routing.
+Если вам необходимо выгрузить необработанные данные из OpenStreetMap, то на [этой](https://wiki.openstreetmap.org/wiki/Downloading_data){:target="_blank"} странице вы узнаете, как это можно сделать, а [здесь](https://wiki.openstreetmap.org/wiki/Use_OpenStreetMap){:target="_blank"} - как использовать OpenStreetMap, например, в картах или для маршрутизации.

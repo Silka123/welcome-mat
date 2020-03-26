@@ -1,15 +1,15 @@
 ---
-title: How to get in touch
+title: Как с нами связаться
 ---
 
-As a decentralized project, there are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about.
+В силу того, что OpenStreetMap - это децентрализованный проект, существует несколько различных способов связи с его сообществом. Все зависит от того, что именно вы хотите спросить.
 
-The [Working Groups]({{site.baseurl}}/about-osm-community/working-groups/) may cover your question if it’s about a specific topic such as licensing or press inquiries. 
+[Рабочие группы]({{site.baseurl}}/about-osm-community/working-groups/) Фонда OpenStreetMap помогут вам в том случае, если ваш вопрос достаточно конкретен и касается их тематики, например, лицензирования или кому именно адресовать запрос СМИ.
 
-If you want to talk with the community in a specific country or region, please consult the [OSM Wiki](https://wiki.openstreetmap.org){:target="_blank"}.
+Если вы хотите связаться с сообществом определенной страны или региона, пожалуйста, загляните в [WikiOSM](https://wiki.openstreetmap.org){:target="_blank"}.
 
-If you need more help with contacting communities, try the [OSM contact channels](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} page. 
+Если вам нужно больше контактов для связи с сообществами, ознакомьтесь с [этой](https://wiki.openstreetmap.org/wiki/Contact_channels){:target="_blank"} страницей.
 
-Here is [more information]({{site.baseurl}}/about-osm-community/donate-to-osm/) about donating to OSM.
+Здесь вы можете более [подробно]({{site.baseurl}}/about-osm-community/donate-to-osm/) узнать, как финансово помочь OSM.
 
-If you are are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at [board(at)osmfoundation.org](mailto:board@osmfoundation.org). 
+Если вы хотите как-то помочь проекту или внести пожертвование, или у вас есть какой-либо другой вопрос, пожалуйста, [свяжитесь](mailto:board@osmfoundation.org) с Советом Фонда OpenStreetMap.

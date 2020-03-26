@@ -1,20 +1,20 @@
 ---
-title: How can we give back?
+title: Как внести свой вклад?
 ---
 
-## Why should an organization contribute data to OpenStreetMap?
+## Почему компании должны делиться данными с OpenStreetMap?
 
-* Adding data to OSM is quicker and easier than building your own system: you benefit from updates to the software, the ecosystem and collaborative maintenance and improvement of the data
-* Allows an organisation to focus on its core data, rather than also maintaining geospatial data
-* OSM is a shared platform to contribute and collaborate with others
-* Broader social good of contributing to a global map
+* Добавлять данные в OSM, а потом использовать всю его инфраструктуру для своих целей, - это намного быстрее и проще, чем пытаться создать с нуля свою собственную геосистему. Более того, вы получите выгоду от обновлений программного обеспечения, экосистемы, совместного обслуживания и улучшения данных.
+* Все это позволяет компании состредоточиться на своих основных данных, а не только на поддержании в актуальном состоянии геоданных.
+* OSM - это отличная площадка не только для хранения данных, но и совместной работы с другими участниками.
+* Создавать карту мира - это помогать миллионам людей на планете
 
-Here are some [general guidelines](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} for contributing. If you are thinking about importing an existing data set, [read our import guidelines closely](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"} and particularly note [license compatibility](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval).
+Здесь вы найдете [общие рекомендации](https://wiki.openstreetmap.org/wiki/How_We_Map){:target="_blank"} по внесению своего вклада в OSM. Если вы надумаете импортировать в OSM какой-либо набор данных, пожалуйста, внимательно ознакомьтесь с [рекомендациями по проведению массового импорта](https://wiki.openstreetmap.org/wiki/Import/Guidelines){:target="_blank"}, в том числе обратите внимание на [совместимость лицензий](https://wiki.openstreetmap.org/wiki/Import/Guidelines#Step_3_-_License_approval).
 
-## What other ways can we contribute?
+## Какими еще способами мы можем внести свой вклад?
 
-* Becoming a <a href="{{site.baseurl}}/about-osm-community/donate-to-osm/">member or supporter</a> helps contribute to the sustainability of the project. A [number of companies](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}, for example, are supporters.
-* Contributing imagery or other data such as GPS traces or your GIS data can help improve the map for all and provide a means for the community to use that information to collect new data. It is important to release that data under an open license as well
-* There’s also a range of supporting open source infrastructure which would benefit from contribution and support from wider community
-* There is also a need for advocacy about OpenStreetMap, training, community engagement and more. You can contribute to OpenStreetMap without actually editing the map.
-* Participate in the governance and work of OpenStreetMap Foundation through [working groups]({{site.baseurl}}/welcome-mat/about-osm-community/working-groups/)
+* Если вы - физическое лицо, то стать членом Фонда OSM, юридическое - купить корпоративное членство, что <a href="{{site.baseurl}}/about-osm-community/donate-to-osm/">поможет</a> проекту обрести финансовую стабильность. Ряд [компаний](https://wiki.osmfoundation.org/wiki/Corporate_Members){:target="_blank"}, например, уже помогают таким образом OSM.
+* Предоставьте спутниковые снимки или любые другие данные, например, GPS-треки или ваши корпоративные геоданные. Все это может помочь улучшить карту или дать возможность сообществу на основе ваших данных получить какую-то новую информацию. Важно выкладывать эти данные под открытой лицензией. Иначе они не будут совместимы с OSM.
+* Существует также целый ряд вспомогательных инфраструктур с открытым исходным кодом, которые выиграют от вклада и поддержки со стороны более широкого сообщества
+* Необходимо медийно продвигать OpenStreetMap, вовлекать в проект и обучать новых людей и многое другое. Более того, вы можете внести свой вклад в развитие OSM, факически даже не редактируя карту.
+* Станьте членом [рабочей группы]({{site.baseurl}}/about-osm-community/working-groups/) и участвуйте в управлении и работе Фонда OpenStreetMap

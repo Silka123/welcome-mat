@@ -1,20 +1,22 @@
 ---
-title: How good is OSM data?
+title: Какого качества данные OSM?
 ---
 
-This is difficult to answer with a simple answer, but “good” should be a starting point. OSM data is created by local communities made up of individual mappers so their activity level often dictates the quality of the map. Also, in some regions, open government data is available to mappers for improving OSM.
+На этот вопрос трудно ответить, так как все зависит от выбора конкретной территории, но если сказать в целом и общем, то они хорошего качества. Данные OSM создатся местными сообществами, которые состоят из отдельных картографов, поэтому качество карты зависит от степени их активности. Кроме того, в некоторых странах органы власти разрешили сообществу OSM использовать свои открытые данные для уточнения карты.
 
-Nonetheless, as OSM compares to the traditional map provider data, and OSM is now often as good or better as what is commercially available. This is evidenced by increased government and corporate usage and contribution.
+Тем не менее, по сравнению с данными традиционных картографических сервисов, в настоящее время OSM не хуже, а в чем-то даже лучше, чем то, что имеется на рынке. Об этом свидетельствует увеличение, как вносимых правок, так и использования данных со стороны органов власти и бизнеса.
 
 
-There is one thing for certain about OSM; it is constantly improving in all regions.
+В отношении данных OSM можно с уверенностью сказать одно: они каждый день становятся лучше, причем во всех регионах мира.
 
-Links below demonstrate some of the statistics that are relevant to make a comparison with third party data:
+По нижеприведенным ссылкам вы можете найти некоторую статистику, которая поможет вам сравнить OSM с другими картосервисами:
 
 - [http://www.missingmaps.org/osmstats/](http://www.missingmaps.org/osmstats/){:target="_blank"}
 - [https://mapbox.github.io/osm-analysis-collab/osm-quality](https://mapbox.github.io/osm-analysis-collab/osm-quality){:target="_blank"}
 
-More research about OpenStreetMap, including many papers on data quality, can be found here:
+Исследования OpenStreetMap, в том числе и множество статей о качестве данных, можно найти здесь:
 - [https://wiki.openstreetmap.org/wiki/Research](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"}
 
-There are a number of quality assurance tools here [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance){:target="_blank"}
+Здесь приведены инструменты, с помощью которых проверяется и обеспечивается качество данных OSM 
+
+- [https://wiki.openstreetmap.org/wiki/Quality_assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance){:target="_blank"}

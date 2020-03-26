@@ -1,9 +1,9 @@
 ---
-title: How to give back?
+title: Как внести свой вклад?
 layout: category
 order: 3
 color: blue
-description: How can you or your organization contribute to OSM?
+description: Как вы или ваша организация можете внести свой вклад в OSM?
 image: mapathon_MM.jpg
-image-alt: a group of people editing OpenStreetMap on computers at a mapathon
+image-alt: группа людей редактирует OpenStreetMap во время картатона
 ---

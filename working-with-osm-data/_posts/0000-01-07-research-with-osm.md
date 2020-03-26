@@ -1,17 +1,17 @@
 ---
-title: How can I research with OSM?
+title: Могу ли я проводить исследования OSM?
 ---
 
-Research is a welcome part of the OSM community. From Kathmandu to Berlin, there is a rich history of research about OSM -- the community, the project, and the data. Before starting out, we encourage you to get in touch with the local OSM community and review the background on OSM research. 
+Исследования - это то, что так любит и ждет сообщество OSM. История исследований, как сообщества OSM, так и его данных, невероятно богатая - буквально от Катманду и до Берлина. Поэтому перед тем, как начать свое собственное, обязательно свяжитесь с местным сообществом OSM и посмотрите, что делали до вас.
 
-There is an email list for research, [research-announce@lists.openstreetmap.org](mailto:research-announce@lists.openstreetmap.org).
+Существует специальный список рассылки, целиком посвященный исследованиям OSM: [research-announce@lists.openstreetmap.org](mailto:research-announce@lists.openstreetmap.org).
 
-Suggestions for how to conduct your research and cite OpenStreetMap are [here](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"}.
+[Здесь](https://wiki.openstreetmap.org/wiki/Researcher_Information){:target="_blank"} вы можете узнать, как вам лучше всего организовать свое исследование и правильно указывать источник данных OpenStreetMap.
 
-You can find details on Google Scholar or other web sources that include articles, but here are [some examples](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"} to help you get started.
+Вы можете найти намного больше информации о научных статья об OSM в Google Scholar или других подобных сервисах. Вот несколько [примеров](https://wiki.openstreetmap.org/wiki/Research){:target="_blank"}, которые помогут вам начать свою собственную работу.
 
-**Could OSM provide a letter of support for our research project?**
+**Может ли OSM предоставить письмо поддержки для нашего исследовательского проекта?**
 
-As OSM is a distributed, global community with diverse expertise, OSM does not provide an exclusive letter of support for any given topic. We encourage researchers to connect with their local OSM community and/or chapter. The benefit of researchers working within the community is that they can seek guidance and context about the work which will add value to the end product. 
+Поскольку OSM - это децентрализованное международное сообщество, у членов которого абсолютно разные знания и опыт, то он не может предоставить персональное письмо в поддержку какого-либо конкретного проекта. Мы настоятельно рекомендуем исследователям связаться с местными сообществами или отделениеми OSM, ведь в таком случае они намного быстрее поймут особенности проекта, что непременно добавит уникальности и ценности их научной работе. 
 
-For these reasons, the OSMF Board does not formally give letters of support for research. We do, however, recommend that you contact previous researchers to build on their work. During your research journey, we do encourage you to connect with the community, join the events and share your research. Many researchers have presented at the various State of the Map events around the world. Their perspectives are very welcome and contribute to the corpus of OSM knowledge. 
+По этим причинам Совет OSM не дает официальных писем поддержки исследователям. При этом, мы рекомендуем вам связаться с теми, кто уже делал подобные исследования, а также с сообществом OSM, чтобы принимать участие в его мероприятиях и делиться своими открытиями. Многие исследователи выступали на конференциях "State of the Map", которая проходит по всему миру. Их доклады всегда тепло воспринимаются, так как они тоже вносят свой вклад в развитие OSM.

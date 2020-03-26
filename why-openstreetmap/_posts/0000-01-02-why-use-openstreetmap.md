@@ -1,16 +1,16 @@
 ---
-title: Why use OpenStreetMap?
+title: Почему нужно использовать OpenStreetMap?
 ---
 
-## Free and Open
-<a href="https://openstreetmap.org">OpenStreetMap</a> is published under an open licence, that allows anyone to access, use and share the data. This creates a level playing field allowing a diverse variety of individuals, communities and organisations to contribute towards creating a shared resource.
-## Global Reach
-OpenStreetMap provides global map data in a unified tagging schema, although there are some local variations. Data is available for every country in the world, and in many places, the data quality is excellent. And since it’s open, you can also help improve quality.
-## Local Knowledge
-OpenStreetMap emphasizes local knowledge and empowers people across the globe to edit. The barrier to entry is low, and there are many ways to contribute that do not require access to the latest technology. The result is a map made by local experts.
-## Continuous updates
-OpenStreetMap has no data releases. Contributions to the map are ingested immediately. You determine how fresh you want your OpenStreetMap data, up to the minute if needed.
-## Agency
-As OpenStreetMap contributors, we together hold the keys to the future of the map. Your contributions, be it in map data, novel tools, new people and insights, evangelism or training, help determine the course of OpenStreetMap, and make it a better map for you and everyone else.
-## Giving Back
-By building against a shared resource, your organisation can benefit from updates provided by OpenStreetMap’s global community.
+## Свободный (бесплатный) и открытый
+Данные <a href="https://openstreetmap.org">OpenStreetMap</a> выложены под открытой лицензией, которая позволяет любому получить к ним доступ, использовать их и делиться ими. Благодаря этому создаются равные условия для всех участников проекта, как отдельных лиц, так и организаций, которые вносят свой вклад в создание общего ресурса.
+## Всемирный охват
+OpenStreetMap - это международный проект, в котором все данные представлены в единой системе тегирования, хотя, конечно, у каждой страны имеются незначительные особенности. В большинстве случаев данные хорошего качества. Но поскольку OpenStreetMap - открытый проект, в случае чего, вы можете в любой момент сделать их еще лучше.
+## Местные картографы
+OpenStreetMap особое внимание уделяет местным картографам, так как они лучше других знают свои территории, а потому всячески привлекает новых пользователей. В настоящее время порог вхождения в проект невысок, существует множество различных способов сделать свой вклад в развитие OSM. Причем для этого не требуется особых знаний или специльного оборудования. В результате получается карта, составленная местными.
+## Постоянные обновления
+В OpenStreetMap не нужно ждать пока выйдет новая версия данных. Любые правки карты принимаются немедленно. Только от вас зависит насколько часто нужно обновлять ваши данные из OpenStreetMap. Хоть раз в минуту, если это необходимо.
+## Соучастие
+Будущее OpenStreetMap определяют только его участники. Любой ваш вклад, будь то картографические данные, новые инструменты, новые люди и идеи, продвижение или обучение - все это помогает определить курс развития проекта и сделать его лучшей картой для вас и всех остальных.
+## Отдача
+Построив свой проект или сервис на таком общем ресурсе, как OpenStreetMap, ваша организация получит выгоду от постоянных уточнений карты, которые делает его международное сообщество.

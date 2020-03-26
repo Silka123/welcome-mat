@@ -1,9 +1,9 @@
 ---
-title: Where do we find a good developer or company to build with OSM?
+title: Где мы можем найти хорошего разработчика или компанию для работы с OSM??
 ---
 
-OSM is a global, open community. There are many organizations and companies that use OSM and there are also developers who build tools and processes using OSM. The OSM Foundation is does not vet developers nor maintain a list of developers.
+OSM - это международное открытое сообщество. Есть много организаций и компаний, которые используют OSM, а также разработчиков, создающих инструменты и сервисы, которые либо основаны на OSM, либо работают с его данными. Фонд OSM не проверяет и не ведет список разработчиков.
 
-We recommend that you join the community, investigate some of the networks and groups involved, and ask questions. There is a lengthy [list of commercial services for OSM on our wiki](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services). Depending where you are in the world, there are local OSM chapters, local country-level mailing lists, as well as local events. Hiring a developer with any niche skills, such as expertise in OSM and the related technological applications is the responsibility of each business.
+Мы рекомендуем вам присоединиться к сообществу OSM, изучить его социальные сети и места коммуникации наших участников, и задать там все интересующие вас вопросы. Потому как считаем, что бизнес должен самостоятельно искать себе нужных ему сотрудников, в том числе и тех, кто умеет работать с OpenStreetMap. В WikiOSM есть длинный [список](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services) коммерческих сервисов OSM и компаний, предоставляющих услуги по работе с ним. Вполне возможно, что в вашей стране есть также местное отделение Фонда OSM, свой список рассылки и локальные мероприятия. 
 
-The [Get in Touch]({{site.baseurl}}/about-osm-community/get-in-touch/) page has suggestions for how to reach out and talk with the community.
+На странице "[Как с нами связаться]({{site.baseurl}}/about-osm-community/get-in-touch/)" вы можете найти нужную информацию по данному вопросу.

@@ -1,6 +1,6 @@
 ---
-title: What is the history of OSM?
+title: История появления OSM
 ---
 
 
-<a href="https://openstreetmap.org">OpenStreetMap</a> was founded in the UK in 2004 by Steve Coast, and taken up by a community of map enthusiasts who wanted a free and open source of data. It has since grown to more than 1 million contributors around the world: individual volunteers, map enthusiast, GIS and geography data specialists, companies that use map data, humanitarian organizations, government agencies and more.
+<a href="https://openstreetmap.org">OpenStreetMap</a> был основан в 2004 году в Великобритании Стивом Костом. Проект сразу же полюбился всем тем, кто имеет отношение к картам и геоданным, так как он предоставлял свободный и открытый доступ к своим данным. В настоящее время в OpenStreetMap более миллиона активных участников со всего мира: отдельные волонтеры, любители карт, специалисты по ГИС и геоданным, гуманитарные и коммерческие организации, органы власти и многие другие.

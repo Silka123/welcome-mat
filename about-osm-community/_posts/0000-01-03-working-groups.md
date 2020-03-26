@@ -1,37 +1,37 @@
 ---
-title: Tell me about OSM Foundation Working Groups
+title: Расскажите о рабочих группах Фонда OSM
 ---
 
-The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.
+Рабочие группы Фонда OSM - это объединения волонтеров, которые занимаются управлением и решением вопросов в каком-то конкретном направлении.
 
-### Licensing Working Group
-* Handling issues relating the the current license for OSM data
+### Рабочая группа по лицензированию
+* Занимается вопросами, связанными с текущей лицензией данных OSM
 
-### Data Working Group
-* Resolving issues about copyright violations, data disputes, vandalism, and automated edits beyond the normal means of the community.
-* Helping to set policy on data.
+### Рабочая группа по данным
+* Решает проблемы, связанные с нарушением авторских прав, спорами по поводу данных, вандализмом и автоматическими правками, которые нарушают правила проекта
+* Разрабатывает правила проекта в отношении данных
 
-### Communication Working Group
-* Maintaining [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"} and OpenStreetMap accounts on [Twitter](https://twitter.com/openstreetmap){:target="_blank"} and [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}.
-* Making announcements and project news written with the official "voice of the foundation"
-* Responding to press contacts.
-* Overseeing design and content on [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
+### Рабочая группа по коммуникациям
+* Ведет [blog.openstreetmap.org](https://blog.openstreetmap.org){:target="_blank"}, а также официальные аккаунты OpenStreetMap в [Twitter](https://twitter.com/openstreetmap){:target="_blank"} and [Facebook](https://www.facebook.com/OpenStreetMap){:target="_blank"}
+* Готовит анонсы и новости проекта, выражающие официальную позицию Фонда OSM
+* Отвечает за контакты со СМИ
+* Следит за дизайном и контентом на [osmfoundation.org](https://wiki.osmfoundation.org){:target="_blank"}
 
-### Operations Working Group
-* Planning and maintenance of the OSM API and servers.
+### Рабочая группа по инфраструктуре
+* Обеспечение функционирования и бесперебойной работы OSM API и серверов.
 
-### Engineering Working Group
-* Engaging and assisting developers to develop OSM software.
+### Рабочая группа по разработке
+* Привлечение программистов для разработки программного обеспечения OSM, а также оказания им помощи.
 
-### State of the Map Organizing Committee
-* Organizing and executing the annual worldwide OpenStreetMap Foundation Conference, "State of the Map"
+### Организаторы конференции State of the Map
+* Организация и проведение ежегодной всемирной конференции Фонда OpenStreetMap "State of the Map"
 
 <!--
 ### Local Chapters Working Group
 * Responsible for running the process of setting up OSM Foundation local chapters.
 -->
 
-### Membership Working Group
-* Administering the membership database
-* Answering routine membership queries
-* Increasing OSMF Membership
+### Рабочая группа по членству
+* Администрирование базы данных членов
+* Ответы на текущие вопрос о членстве
+* Увеличение количества членов Фонда OSM
