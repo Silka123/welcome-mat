@@ -8,6 +8,8 @@ title: Кто использует OpenStreetMap?
 
 ## Крупные сайты
 
+* 2ГИС
+* [Спутник](http://maps.sputnik.ru/)
 * Amazon
 * Apple
 * Baidu Maps
@@ -33,6 +35,7 @@ title: Кто использует OpenStreetMap?
 
 ## Программное обеспечение и услуги в области геоданных
 
+* [NextGIS](https://nextgis.ru) (Россия)
 * CARTO
 * Digital Globe
 * ESRI
@@ -42,8 +45,11 @@ title: Кто использует OpenStreetMap?
 
 ## Органы власти
 
-* Agence Française de Développement (Французское агентство развития)
-* City of [Belem, Brazil](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"}
+* Министерство чрезвычайных ситуации РФ ([Атлас рисков и угроз](https://atlas.mchs.ru/))
+* Магнитогорское городское Cобрание депутатов, Челябинская область, Россия ([Карта округов](http://www.magnitka.org/map))
+* Министерство транспорта РФ ([карта](https://bkdrf.ru/map) на сайте нацпроекта "Безопасные и качественные автомобильные дороги")
+* Французское агентство развития
+* Город [Белем](http://www.kdaberlinda.pa.gov.br/mapa_app/){:target="_blank"},  Бразилия
 * город Джакарта, правительство Индонезии
 * Французская жандармерия и полиция
 * Правительство Бразилии ([министерство окружающей среды](https://www.ibama.gov.br/siema/){:target="_blank"} и [министерство планирования](http://www.visualizador.inde.gov.br){:target="_blank"})
@@ -67,6 +73,7 @@ title: Кто использует OpenStreetMap?
 * Госдепартамент США, Агентство США по международному развитию, Корпус Мира
 
 ## Гуманитарный сектор
+* GreenPeace Russia ([карта](https://recyclemap.ru/) раздельного сбора мусора)
 * CartONG
 * Clinton Health Access Initiative
 * Concern Worldwide

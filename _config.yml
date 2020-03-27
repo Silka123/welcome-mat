@@ -1,5 +1,5 @@
 permalink: /:categories/:title/
-baseurl: https://welcome.openstreetmap.ru
+baseurl: http://welcome.openstreetmap.ru
 title: Добро пожаловать | OpenStreetMap
 markdown: kramdown
 kramdown:
